@@ -1,0 +1,14 @@
+node_modules
+dist
+.vite
+coverage
+.DS_Store
+npm-debug.log*
+.env
+.env.*
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+*.log
